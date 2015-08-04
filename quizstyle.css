@@ -1,7 +1,12 @@
+
+
 body {
-    background-color: black;
+    background: #FFFFFF;
+    font: "arial", "helvetica"; 
+    font font-size: 12pt;
+    max width: 600px;
 }
 h1 {
-    color: blue;
+    color: #000000;
     margin-left: 40px;
 } 
